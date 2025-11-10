@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.idea/
+.vscode/
+*.swp
+
+# Logs / Temp
+*.log
+*.tmp
+*.bak
+*.cache
+tmp/
+temp/
+*.orig
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# macOS Automator Shortcuts cache
+*.workflow
+*.applescript
+
+# Curl temp body
+/tmp/clip2ai_body
+
+
+.gitignore
